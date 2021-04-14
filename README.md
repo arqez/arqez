@@ -9,7 +9,7 @@
 ⠀
 
 
-<p align="center">i have a [twitter](https://twitter.com/arqez_), a [discord](https://discordapp.com/users/817407714770288650/), and a [twitch](https://twitch.tv/arqez) that i might start posting on soon.</p>
+   i have a [twitter](https://twitter.com/arqez_), a [discord](https://discordapp.com/users/817407714770288650/), and a [twitch](https://twitch.tv/arqez) that i might start       posting on soon.
 
 ----
 ![](https://github-readme-stats.vercel.app/api?username=arqez&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
