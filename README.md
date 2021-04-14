@@ -1,16 +1,25 @@
-### Hi there 👋
+**arqez**
 
-<!--
-**arqez/arqez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![I am GitHub Readme Generator's creator](https://cdn.discordapp.com/attachments/818180413201711125/831857429611806800/aboutme.png)
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/818180413201711125/831857627847327774/arqezcat.gif" width="420">
+</p>
+<h1 align="center">arqez</h1>
+<p align="center">“idk what im doing here lol”<br>—i'm trying to get better at js and python, though!!</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⠀
+
+
+i have a [twitter](https://twitter.com/arqez_), a [discord](https://discordapp.com/users/817407714770288650/), and a [twitch](https://twitch.tv/arqez) that i might start posting on soon.
+
+----
+
+that's the end of the text. you've reached it. congrats
+![](https://github-readme-stats.vercel.app/api?username=arqez&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
+
+
+
+
+
