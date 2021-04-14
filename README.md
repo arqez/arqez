@@ -1,12 +1,10 @@
-**arqez**
-
-![I am GitHub Readme Generator's creator](https://cdn.discordapp.com/attachments/818180413201711125/831857429611806800/aboutme.png)
+![](https://cdn.discordapp.com/attachments/818180413201711125/831857429611806800/aboutme.png)
 
 <p align="center">
 <img src="https://cdn.discordapp.com/attachments/818180413201711125/831857627847327774/arqezcat.gif" width="420">
 </p>
 <h1 align="center">arqez</h1>
-<p align="center">“idk what im doing here lol”<br>—i'm trying to get better at js and python, though!!</p>
+<p align="center">“idk what im doing here lol”<br>—i'm trying to get better at js and python, though lol</p>
 
 ⠀
 
@@ -16,6 +14,9 @@ i have a [twitter](https://twitter.com/arqez_), a [discord](https://discordapp.c
 ----
 
 that's the end of the text. you've reached it. congrats
+
+
+
 ![](https://github-readme-stats.vercel.app/api?username=arqez&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 
