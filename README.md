@@ -1,6 +1,5 @@
 ![](https://cdn.discordapp.com/attachments/818180413201711125/831857429611806800/aboutme.png)
 
-<img src="https://komarev.com/ghpvc/?username=arqez=blue" alt="fax" width="" height="">
 <h1 align="center">👋</h1>
 <br>
 <h1 align="center">i code for fun</h1>
