@@ -33,10 +33,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arqez&layout=compact&theme=radical) 
 
 
-
-
-
-
+Note: I do not break Discord's TOS in any way and do not condone the use of the tools I provide on this account.
 
 
 
