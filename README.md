@@ -11,7 +11,7 @@
 
 
 <p align="center">
-<img src="https://discord.c99.nl/widget/theme-4/817407714770288650.png">
+<img src="https://discord.c99.nl/widget/theme-3/817407714770288650.png">
 
 
 <p align="center"><b>programs and langs i use</b></p>
