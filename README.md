@@ -3,7 +3,7 @@
 
 <h1 align="center">👋</h1>
 <br>
-<h1 align="center">i code for fun</h1>
+<h1 align="center">idk bro</h1>
 
 
 
