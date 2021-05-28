@@ -14,7 +14,7 @@
 <img src="https://discord.c99.nl/widget/theme-3/817407714770288650.png">
 
 
-<p align="center"><b>programs and langs i use</b></p>
+<p align="center"><b>programs and languages i use/try to understand but im just partially to retarded to</b></p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30">
 <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" width="30">
