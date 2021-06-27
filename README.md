@@ -3,7 +3,7 @@
 
 <h1 align="center">👋</h1>
 <br>
-<h1 align="center">idk bro</h1>
+<h1 align="center">hacke</h1>
 
 
 
@@ -14,7 +14,7 @@
 <img src="https://discord.c99.nl/widget/theme-3/817407714770288650.png">
 
 
-<p align="center"><b>programs and languages i use/try to understand but im just partially too retarded to</b></p>
+<p align="center"><b>programs and languages i use/try to understand but im just partially too retarded to (joe) (i skid a lot)</b></p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30">
 <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" width="30">
@@ -31,7 +31,7 @@
 ### Stats
 ![stats](https://github-readme-stats.vercel.app/api?username=arqez&show_icons=true&theme=radical)   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arqez&layout=compact&theme=radical) 
-
+OMG HACK
 
 
 
