@@ -7,7 +7,7 @@
 
 
 
-<p align="center"><b>Socials</b></p>
+<p align="center"><b>my most liekly disabled discord account :DDD</b></p>
 
 
 <p align="center">
