@@ -7,14 +7,14 @@
 
 
 
-<p align="center"><b>my most liekly disabled discord account :DDD</b></p>
+<p align="center"><b>my most liekly disabled discord account </b></p>
 
 
 <p align="center">
-<img src="https://discord.c99.nl/widget/theme-3/817407714770288650.png">
+<img src="https://discord.c99.nl/widget/theme-3/848673335625515019.png">
 
 
-<p align="center"><b>DUDE THESE ARE SO COOL WTF ARE THESE ICONSO IDK WHAT THEY MEAN BTUT THEY LOOK REALLY COOL</b></p>
+<p align="center"><b>languages, ide's, and programs i tend to use sometimes lol</b></p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30">
 <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" width="30">
