@@ -1,7 +1,7 @@
 <p allign="center">
 <img src="https://cdn.discordapp.com/attachments/818180413201711125/831857429611806800/aboutme.png">
 
-<h1 align="center">👋</h1>
+<h1 allign="center">👋</h1>
 <br>
 <h1 align="center">hacke</h1>
 
