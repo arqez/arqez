@@ -14,8 +14,7 @@
 <img src="https://discord.c99.nl/widget/theme-3/838910138005323797.png">
 
   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/400492744105000964)](https://discord.com/users/400492744105000964) 
-  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/154608413412818944)](https://discord.com/users/154608413412818944)
-
+  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/289437638237224961)](https://discord.com/users/289437638237224961)
 
 
 
