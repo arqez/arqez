@@ -13,6 +13,8 @@
 <p align="center">
 <img src="https://discord.c99.nl/widget/theme-3/838910138005323797.png">
 
+  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/400492744105000964)](https://discord.com/users/400492744105000964)
+
 
 
 
