@@ -11,8 +11,7 @@
 
   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/400492744105000964)](https://discord.com/users/400492744105000964) 
   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/289437638237224961)](https://discord.com/users/289437638237224961)
-
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/289437638237224961?borderRadius=5px&idleMessage=Friend%20me%20on%20discord%20to%20chat!&bg=a)](https://discord.com/users/289437638237224961)
 
 
 
