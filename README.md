@@ -9,7 +9,7 @@
 
 <p align="center"><b>💫</b></p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/289437638237224961?borderRadius=5px&idleMessage=not%20doing%20anything&bg=a)](https://discord.com/users/289437638237224961)
+[![Discord Presence](https://lanyard.cnrad.dev/api/285681931000086528?borderRadius=5px&idleMessage=not%20doing%20anything&bg=a)](https://discord.com/users/285681931000086528)
 [![Discord Presence](https://lanyard.cnrad.dev/api/400492744105000964?borderRadius=5px&idleMessage=not%20doing%20anything&bg=a)](https://discord.com/users/400492744105000964)
 
 
